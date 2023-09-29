@@ -3,4 +3,4 @@ petshop for miaw
 MIAW PET STORE 
 
 
-RUN MAINFRAME in netbeans
+OPEN MAINFRAME and RUN mainShop in netbeans
